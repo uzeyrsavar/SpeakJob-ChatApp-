@@ -1,0 +1,22 @@
+{
+  "name": "basit-chat-uygulamasi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@firebase/app": "^0.11.2",
+    "@firebase/auth": "^1.9.1",
+    "@firebase/database": "^1.0.13",
+    "express": "^4.21.2",
+    "firebase": "^11.4.0",
+    "peer": "^1.0.2",
+    "peerjs": "^1.5.4",
+    "socket.io": "^4.8.1"
+  }
+}
